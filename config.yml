@@ -1,0 +1,20 @@
+study_window:
+  start_date: "2024-01-01"
+  end_date: "2025-10-21"
+  timezone: "UTC"
+
+paths:
+  output_root: "out" # contains subfolders for reports/, figures/, tables/, and logs/.
+  raw_data_dir: "data_raw"
+  processed_data_dir: "data_processed"
+  code_dir: "src"
+  runs_dir: "data_processed/runs"
+  artifacts_dir: "artifacts"
+  truth_social_dir: "data_raw/truth_social/"
+  transcripts_processed_dir: "data_processed/tv_transcripts/" # only a sample provided
+
+attention:
+  fetch_trends: true
+  trends_geo: "US"
+  trends_keywords_epstein: ["epstein"]
+  trends_placebos: ["taylor swift","ncaa football"]

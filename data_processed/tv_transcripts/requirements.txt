@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+click
+sentence_transformers
+statsmodels
+scipy
+bs4
+pyarrow
+pytest

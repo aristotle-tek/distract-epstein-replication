@@ -1,0 +1,60 @@
+[
+  {
+    "start": "2025-01-23",
+    "label": "EO 14176",
+    "description": "Executive order directing declassification of JFK/RFK/MLK files to answer 'release other files' arguments.",
+    "align": "top"
+  },
+  {
+    "start": "2025-03-01",
+    "label": "EO: English official",
+    "description": "Executive Order declaring English the official language (first ever)",
+    "align": "top"
+  },
+  {
+    "start": "2025-03-19",
+    "label": "NARA update",
+    "description": "National Archives posts implementation notes about EO 14176 and prior releases.",
+    "align": "top"
+  },
+  {
+    "start": "2025-06-04",
+    "end": "2025-06-04",
+    "label": "New travel ban",
+    "description": "Signed proclamation barring citizens of 12 countries from visiting",
+    "align": "top"
+  },
+  {
+    "start": "2025-07-12",
+    "end": "2025-07-16",
+    "label": "Hoax rhetoric",
+    "description": "Truth Social broadsides call renewed Epstein document pressure a partisan 'hoax.'",
+    "align": "bottom"
+  },
+  {
+    "start": "2025-08-11",
+    "end": "2025-08-14",
+    "label": "DC Guard move",
+    "description": "White House memo mobilizes the D.C. National Guard under a 'law-and-order' mission set.",
+    "align": "top"
+  },
+  {
+    "start": "2025-08-18",
+    "end": "2025-08-22",
+    "label": "DOJ handoff",
+    "description": "DOJ tells House Oversight it will begin producing Epstein-related records that week.",
+    "align": "bottom"
+  },
+  {
+    "start": "2025-09-02",
+    "label": "33k pages",
+    "description": "House Oversight publishes 33,295 DOJ-produced files online.",
+    "align": "top"
+  },
+  {
+    "start": "2025-09-08",
+    "label": "Estate cache",
+    "description": "Committee releases additional materials received from the Epstein estate.",
+    "align": "top"
+  }
+]
