@@ -1,0 +1,4 @@
+{"post_id": "115384523296720119", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "", "rationale": "Diplomatic phone call with Putin; not matching listed political topics"}
+{"post_id": "115384956858741387", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "", "rationale": "Detailed diplomatic call about Middle East and Ukraine; not in list"}
+{"post_id": "115385030312911724", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.85, "is_media_only": false, "media_notes": "", "rationale": "Threatens military action against Hamas; foreign policy statement"}
+{"post_id": "115385308751129485", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Attacks global carbon tax and warns of higher consumer prices"}

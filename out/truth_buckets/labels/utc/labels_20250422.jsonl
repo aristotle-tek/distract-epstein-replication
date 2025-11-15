@@ -1,0 +1,6 @@
+{"post_id": "114379025122605833", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114379314291410399", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces forthcoming speeches/events"}
+{"post_id": "114381682443037273", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "", "rationale": "Promotes and urges purchase of a book"}
+{"post_id": "114382248962521077", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "", "rationale": "Foreign policy update; doesn't match listed categories"}
+{"post_id": "114382298676759185", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Photo-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114382687269815844", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Condolences and solidarity statement for victims"}

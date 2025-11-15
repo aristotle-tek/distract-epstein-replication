@@ -1,0 +1,8 @@
+{"post_id": "114424306410800731", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114427037843089017", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114427039576214099", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114427089568235019", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Discusses stock market, tariffs, and US economic recovery"}
+{"post_id": "114427214911868233", "primary_bucket": "media_combat", "secondary_bucket": "elections_fraud", "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Attacks multiple media outlets and alleges election-related fraud"}
+{"post_id": "114427400349569499", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "", "rationale": "Celebratory campaign video promoting Trump"}
+{"post_id": "114428162460122874", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Shares link to live video (livestream promotion)"}
+{"post_id": "114429386641944712", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}

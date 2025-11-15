@@ -1,0 +1,10 @@
+{"post_id": "114044712489265353", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces military nomination and praises generals"}
+{"post_id": "114047631828196314", "primary_bucket": "elections_fraud", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "References poll numbers and election polling data"}
+{"post_id": "114047636346854246", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Promotes attendance at an event (CPAC)"}
+{"post_id": "114047677181856301", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Praise/encouragement of a person, no policy or event content"}
+{"post_id": "114047709471578461", "primary_bucket": "media_combat", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Direct attack on a news network and journalists"}
+{"post_id": "114047718263615731", "primary_bucket": "immigration_border", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Statement about the southern border status"}
+{"post_id": "114047738854261552", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces Hamas hostage release"}
+{"post_id": "114049091411583764", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "Link to livestream", "rationale": "Link to live CPAC event"}
+{"post_id": "114050070794885064", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Promotes Lara Trump's TV show appearance"}
+{"post_id": "114050109943745892", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces ceremonial dinner with governors"}

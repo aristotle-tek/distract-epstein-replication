@@ -1,0 +1,4 @@
+{"post_id": "113747699380757285", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "", "rationale": "Complains about Senate obstruction and rallies Republicans to action"}
+{"post_id": "113747861555910898", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "", "rationale": "Campaign slogan promoting movement and support"}
+{"post_id": "113749308823843468", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces event production role and celebrates rally organizer"}
+{"post_id": "113749746491307755", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Photo-only post", "rationale": "No accompanying text provided"}

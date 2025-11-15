@@ -1,0 +1,4 @@
+{"post_id": "115164084768725650", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Personal travel/update about a flyover and match"}
+{"post_id": "115164113502668318", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Criticizes wind energy and rising energy costs"}
+{"post_id": "115164422928262033", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.75, "is_media_only": false, "media_notes": "", "rationale": "Foreign policy/war statement about hostages and threats"}
+{"post_id": "115165715028507857", "primary_bucket": "immigration_border", "secondary_bucket": "economy_inflation", "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Discusses immigration enforcement and foreign investment hiring"}

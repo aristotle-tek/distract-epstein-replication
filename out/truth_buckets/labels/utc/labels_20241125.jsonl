@@ -1,0 +1,6 @@
+{"post_id": "113544535456789578", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Endorses and promotes a congressional campaign"}
+{"post_id": "113545366414504634", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "", "rationale": "Boasts of victory; no clear policy or event."}
+{"post_id": "113545366863200868", "primary_bucket": "courts_trials", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Attacks prosecutors and discusses legal cases"}
+{"post_id": "113545605109827019", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Photo-only post", "rationale": "No accompanying text provided"}
+{"post_id": "113546215051155542", "primary_bucket": "immigration_border", "secondary_bucket": "economy_inflation", "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Links migration crisis to tariffs; demands border security."}
+{"post_id": "113546215408213585", "primary_bucket": "economy_inflation", "secondary_bucket": "immigration_border", "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces tariffs on China tied to drug shipments."}

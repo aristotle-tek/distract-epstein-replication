@@ -1,0 +1,8 @@
+{"post_id": "113467518230335398", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.4, "is_media_only": false, "media_notes": "Link-only post", "rationale": "Link shared with no explanatory text"}
+{"post_id": "113467588585135254", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "113471307766791223", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "113471367719279821", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces cabinet appointment"}
+{"post_id": "113471522912959089", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces ambassador nomination to Israel"}
+{"post_id": "113472309364700933", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces special envoy appointment focused on peace and philanthropy"}
+{"post_id": "113472416019067794", "primary_bucket": "elections_fraud", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Announces counsel appointment emphasizing election integrity"}
+{"post_id": "113472422495973695", "primary_bucket": "courts_trials", "secondary_bucket": "media_combat", "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "References FISA Court abuse and accuses officials/media of lying"}

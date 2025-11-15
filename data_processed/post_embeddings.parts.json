@@ -1,0 +1,29 @@
+{
+  "total_rows": 24258,
+  "parts": [
+    {
+      "file": "post_embeddings.part01of06.parquet",
+      "rows": 4043
+    },
+    {
+      "file": "post_embeddings.part02of06.parquet",
+      "rows": 4043
+    },
+    {
+      "file": "post_embeddings.part03of06.parquet",
+      "rows": 4043
+    },
+    {
+      "file": "post_embeddings.part04of06.parquet",
+      "rows": 4043
+    },
+    {
+      "file": "post_embeddings.part05of06.parquet",
+      "rows": 4043
+    },
+    {
+      "file": "post_embeddings.part06of06.parquet",
+      "rows": 4043
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+{"post_id": "113528137809145480", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.4, "is_media_only": false, "media_notes": "Link-only post", "rationale": "Only a YouTube link with no explanatory text"}
+{"post_id": "113529294640959784", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Image-only post", "rationale": "No accompanying text provided"}

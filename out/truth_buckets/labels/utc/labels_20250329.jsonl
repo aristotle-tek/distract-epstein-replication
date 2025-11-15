@@ -1,0 +1,7 @@
+{"post_id": "114246118807868857", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.5, "is_media_only": false, "media_notes": "Link-only post", "rationale": "Shares a news link with no explicit commentary"}
+{"post_id": "114246559232803169", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114246745942405963", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Endorses candidate and urges voters to turnout"}
+{"post_id": "114246747590580179", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Endorses candidate and urges voters to turnout"}
+{"post_id": "114247113203989919", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "Includes video", "rationale": "Personal thank-you message"}
+{"post_id": "114247350038981352", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Image-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114247551865595874", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "Includes image", "rationale": "Golf event and diplomatic visit"}

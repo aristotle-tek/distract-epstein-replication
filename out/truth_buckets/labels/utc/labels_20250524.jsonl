@@ -1,0 +1,6 @@
+{"post_id": "114562471420009144", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "Link-only to truthsocial status", "rationale": "Link-only post with no topical text"}
+{"post_id": "114562474780432927", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "Link-only to truthsocial status", "rationale": "Link-only post with no topical text"}
+{"post_id": "114562479349667899", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "Link-only post", "rationale": "Link-only post, no substantive text"}
+{"post_id": "114563150605058649", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "YouTube live link", "rationale": "Live stream link likely promoting an event or livestream"}
+{"post_id": "114563536387902596", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "Video attached", "rationale": "Ceremonial graduation remarks to cadets"}
+{"post_id": "114563539540146112", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "Video attached", "rationale": "Commissioning/ceremony remarks for new lieutenants"}

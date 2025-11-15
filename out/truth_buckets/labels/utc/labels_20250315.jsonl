@@ -1,0 +1,6 @@
+{"post_id": "114163546048177560", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "", "rationale": "Claims Biden wasn’t the real president; not explicit election fraud"}
+{"post_id": "114164024901387974", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces military action and killing of ISIS leader"}
+{"post_id": "114166864327680489", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.5, "is_media_only": false, "media_notes": "Link-only post", "rationale": "External article link without clear topical text"}
+{"post_id": "114167524244753377", "primary_bucket": "media_combat", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Attacks media for alleged misreporting"}
+{"post_id": "114167864888304754", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "", "rationale": "Announces and threats of military action overseas"}
+{"post_id": "114167886343462616", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces diplomatic/military appointment"}

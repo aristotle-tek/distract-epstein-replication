@@ -1,0 +1,7 @@
+{"post_id": "114291899120736428", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114291900690211308", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "Link-only post", "rationale": "Only a link provided, no clear topic"}
+{"post_id": "114291905867171583", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "External link to jobs article", "rationale": "Links to article celebrating a strong jobs report"}
+{"post_id": "114291969781600343", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114292066645521654", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114292067653929662", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114293581018893404", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Advocates tariffs to fix trade deficits"}

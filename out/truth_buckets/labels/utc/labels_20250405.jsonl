@@ -1,0 +1,5 @@
+{"post_id": "114285375813275308", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Boasts investment, jobs, and economic gains"}
+{"post_id": "114287474604619244", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Promotes TV appearances and viewing times"}
+{"post_id": "114287485415940651", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Calls for tariffs—trade/economic policy focus"}
+{"post_id": "114287487400016884", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.5, "is_media_only": false, "media_notes": "Contains external link", "rationale": "Retweet with link, no clear issue stated"}
+{"post_id": "114287487764263453", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "", "rationale": "Simple retweet text, no substantive content"}

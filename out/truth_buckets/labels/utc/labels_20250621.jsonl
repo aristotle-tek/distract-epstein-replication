@@ -1,0 +1,8 @@
+{"post_id": "114719075688538552", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "Video attached", "rationale": "Praises Trump as commander-in-chief; no policy topic"}
+{"post_id": "114722976310902061", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Attacks green energy subsidies and their costs"}
+{"post_id": "114723338411726608", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.5, "is_media_only": false, "media_notes": "Link-only post", "rationale": "Link-only post without explanatory text"}
+{"post_id": "114723363133178364", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Boasts about wage growth; economic messaging"}
+{"post_id": "114723475582004402", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "Video attached", "rationale": "Vague, non-thematic comment"}
+{"post_id": "114723520780472999", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114723536228494118", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Thanks president and shares news link"}
+{"post_id": "114724035571020048", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Describes military strike and praises armed forces"}

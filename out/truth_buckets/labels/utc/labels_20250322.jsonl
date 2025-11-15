@@ -1,0 +1,7 @@
+{"post_id": "114203564650249629", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Urges voters to support Brad Schimel in state supreme court election"}
+{"post_id": "114205681569837036", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Offers condolences for George Foreman's death"}
+{"post_id": "114205890583765400", "primary_bucket": "courts_trials", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "", "rationale": "Demands apology tied to resolving a legal/political case"}
+{"post_id": "114206663969557983", "primary_bucket": "courts_trials", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "", "rationale": "Links article criticizing Supreme Court legitimacy"}
+{"post_id": "114206665153162737", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.5, "is_media_only": false, "media_notes": "", "rationale": "Likely celebrity/royal gossip link, not a policy topic"}
+{"post_id": "114207231350859301", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Photo-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114208486518221446", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.4, "is_media_only": false, "media_notes": "Image attached", "rationale": "Vague conflict-of-interest accusation without clear topic"}

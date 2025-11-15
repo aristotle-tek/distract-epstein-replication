@@ -1,0 +1,6 @@
+{"post_id": "115285037264191888", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "Includes video (truthsocial)", "rationale": "Congratulatory comment with video"}
+{"post_id": "115285407847623317", "primary_bucket": "media_combat", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Criticizes NFL kickoff rule change"}
+{"post_id": "115287641147640374", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.85, "is_media_only": false, "media_notes": "", "rationale": "Attacks mayoral candidate; political persuasion"}
+{"post_id": "115287691323395767", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces tariffs to protect domestic industries"}
+{"post_id": "115287723938349086", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Announces tariffs to protect domestic industries"}
+{"post_id": "115288486061498188", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}

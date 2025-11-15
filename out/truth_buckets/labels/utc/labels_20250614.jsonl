@@ -1,0 +1,7 @@
+{"post_id": "114682028221492760", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Photo-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114682031038787625", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "", "rationale": "Generic celebratory statement without policy or event details"}
+{"post_id": "114682034463994099", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Holiday greeting (Flag Day) without policy content"}
+{"post_id": "114682186196359798", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Promotes attending a military parade in Washington, D.C."}
+{"post_id": "114682713948931541", "primary_bucket": "courts_trials", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Discusses investigation and prosecution after a targeted shooting"}
+{"post_id": "114683261634430212", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "", "rationale": "Diplomatic call about prisoner swaps and foreign conflicts"}
+{"post_id": "114683943083517036", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.6, "is_media_only": false, "media_notes": "Link-only post", "rationale": "Shares YouTube livestream link"}

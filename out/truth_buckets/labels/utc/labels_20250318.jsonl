@@ -1,0 +1,5 @@
+{"post_id": "114183248537594119", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Photo-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114183576937425149", "primary_bucket": "courts_trials", "secondary_bucket": "elections_fraud", "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Attacks judge, calls for impeachment; references election legitimacy"}
+{"post_id": "114184931453780675", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Describes diplomatic call and claimed ceasefire between Russia and Ukraine"}
+{"post_id": "114185831576694057", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114186080634823311", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "Image with flag emojis", "rationale": "Flag emojis and image; no substantive text"}

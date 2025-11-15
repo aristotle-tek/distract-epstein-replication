@@ -1,0 +1,7 @@
+{"post_id": "114093323833055090", "primary_bucket": "rally_promo", "secondary_bucket": null, "confidence": 0.7, "is_media_only": false, "media_notes": "Video attached", "rationale": "Boosts Trump with endorsement quote"}
+{"post_id": "114093526901586124", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Announces crypto economic policy and market promotion"}
+{"post_id": "114093529028938304", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Photo-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114093654027859457", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Photo-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114093946326587357", "primary_bucket": "economy_inflation", "secondary_bucket": null, "confidence": 0.8, "is_media_only": false, "media_notes": "", "rationale": "Discusses Bitcoin and Ethereum as reserve/financial assets"}
+{"post_id": "114094134485621999", "primary_bucket": "other", "secondary_bucket": null, "confidence": 0.9, "is_media_only": true, "media_notes": "Video-only post", "rationale": "No accompanying text provided"}
+{"post_id": "114094872007717497", "primary_bucket": "immigration_border", "secondary_bucket": null, "confidence": 0.9, "is_media_only": false, "media_notes": "", "rationale": "Claims illegal border crossings statistic"}
