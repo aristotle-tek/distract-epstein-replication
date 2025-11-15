@@ -5,7 +5,7 @@ Repository code for "Distracting from the Epstein files? Attention and short-run
 
 ## Package versions
 
-Python 3.11+ recommended.
+Python 3.11+ recommended
 
 Minimal deps: `click`, `numpy`, `pandas`, `pyarrow`,`matplotlib`, `sentence-transformers`, `statsmodels`, `matplotlib`, `pyyaml`.
 Or use:
@@ -30,6 +30,7 @@ pip install -r requirements.txt
 - Or run subsets with the other scripts, or run directly with python.
 
 
-
+## tests
+You can run a few tests with `pytest`
 
 
