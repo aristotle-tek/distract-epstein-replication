@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following paper."
+title: "Distracting from the Epstein files? Media attention and short-run shifts in Trump's Truth Social posts"
+
+authors:
+  - family-names: Peterson
+    given-names: Andrew J.
+
+date-released: 2025-11-14
+doi: 10.48550/arXiv.2511.11532
+url: "https://arxiv.org/abs/2511.11532"
+
+preferred-citation:
+  type: article
+  title: "Distracting from the Epstein files? Media attention and short-run shifts in Trump's Truth Social posts"
+  authors:
+    - family-names: Peterson
+      given-names: Andrew J.
+  year: 2025
+  doi: 10.48550/arXiv.2511.11532
+  journal: "arXiv preprint arXiv:2511.11532"
+  url: "https://arxiv.org/abs/2511.11532"
